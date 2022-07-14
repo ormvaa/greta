@@ -1,0 +1,2 @@
+Compétences larges de l'exploitation, production, infrastructures et culture Cloud, Devops.
+- Maîtrise des environnements notamment Ansible, Jenkins, Tomcat, Apache, Linux, Windows, Scripting, Automatisation, Cloud (AWS, Azure...).
